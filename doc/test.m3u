@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MAA TV-1",MAA TV-1
+http://217.20.112.199:8888/maatv/index.m3u8
+#EXTINF:-1 tvg-id="MAA TV-2",STAR Maa-2 
+http://103.229.254.25:7001/play/a0bw/index.m3u8
+
+#EXTINF:-1 tvg-id="GEMINI TV-1",GEMINI TV-1 
+https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
+
+
+#EXTINF:-1,ETV HD
+http://103.229.254.25:7001/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
+https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+
+#EXTINF:-1,ETV Cinema HD (1080p)
+https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1,ETV Plus HD (1080p)
+https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
+
+
+#EXTINF:-1,SUN TV-1
+http://217.20.112.199:8888/suntv/index.m3u8
+#EXTINF:-1,SUN TV-2
+http://15.235.144.106:14054
+#EXTINF:-1,SUN TV-3
+http://198.27.83.207:2550/SUN_TV_SD/index.m3u8
+
+#EXTINF:-1,VIJAY TV
+http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+
+
+#EXTINF:-1,SUN Music TV-1
+http://15.235.144.106:14055
+#EXTINF:-1,SUN Music TV-1
+http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
+
+#EXTINF:-1,TAMIL Comedy
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1,JAYA TV
+http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
+
+#EXTINF:-1,ZEE TAMIL TV
+http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
+
+
+#EXTINF:-1,KTV
+http://198.27.83.207:8888/KTV_SD/index.m3u8
+
+
+
+#EXTINF:-1,STAR Movies HD
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1,STAR Movies Select HD
+http://103.229.254.25:7001/play/a02v/index.m3u8
+#EXTINF:-1,MAX Movie eng
+http://103.229.254.25:7001/play/a0et/index.m3u8
+
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://103.229.254.25:7001/play/a06r/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1,Discovery HD
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://103.229.254.25:7001/play/a0dg/index.m3u8
+#EXTINF:-1,Discovery Science
+http://103.229.254.25:7001/play/a03h/index.m3u8
+#EXTINF:-1,History TV18 HD
+http://103.229.254.25:7001/play/a02z/index.m3u8
+#EXTINF:-1,WILD EARTH
+http://103.229.254.25:7001/play/a0ev/index.m3u8
+
+
+
+#EXTINF:-1,TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+
+
+#EXTINF:-1,ETV Andhra Pradesh
+https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1,ETV Telangana
+https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1,ETV News
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+
+#EXTINF:-1,TV5 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+
+#EXTINF:-1,ABN Andhra Jyothy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=-FR2KTpV7aG
+
+
+#EXTINF:-1,ETV Abhiruchi (1080p)
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+
+#EXTINF:-1,ETV Life (480p)
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+
+
+
+#EXTINF:-1,ETV Comedy (1080p)
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
+#EXTINF:-1,ETV Josh (1080p)
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
+#EXTINF:-1,ETV Music (1080p)
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,Playlist-1
+http://103.229.254.25:7001/playlist.m3u8
+
+#EXTINF:-1,Playlist-2
+https://iptv-org.github.io/iptv/languages/tel.m3u
+
+#EXTINF:-1,Playlist-3
+https://iptv-org.github.io/iptv/languages/tam.m3u
+
+#EXTINF:-1,Playlist-4
+http://103.182.170.32:8888/playlist.m3u8
